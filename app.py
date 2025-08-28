@@ -16,7 +16,7 @@ from Crypto.Util.Padding import pad
 
 MAIN_KEY = base64.b64decode('WWcmdGMlREV1aDYlWmNeOA==')
 MAIN_IV = base64.b64decode('Nm95WkRyMjJFM3ljaGpNJQ==')
-RELEASE_VERSION = "OBB50"
+RELEASE_VERSION = "OB02"
 USER_AGENT = "Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PI)"
 
 LOGIN_URLS = [
